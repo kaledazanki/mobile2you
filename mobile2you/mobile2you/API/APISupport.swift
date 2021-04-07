@@ -8,6 +8,8 @@
 import Foundation
 
 class APISupport {
-    let API_SECRET = ""
-    
+    static let API_SECRET = "c991149b9b012cdc3c5a363a1d0234de"
+    static let BASE_URL = "https://api.themoviedb.org/3/"
+    static let POPULAR_MOVIES = "movie/popular"
+
 }
