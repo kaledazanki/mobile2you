@@ -99,12 +99,9 @@
 		C3558C7C261D324A00B853E0 /* mobile2you */ = {
 			isa = PBXGroup;
 			children = (
-				C3558C7D261D324A00B853E0 /* AppDelegate.swift */,
-				C3558C7F261D324A00B853E0 /* SceneDelegate.swift */,
+				C3558CB0261D330B00B853E0 /* Initializer */,
 				C3558C81261D324A00B853E0 /* ViewController.swift */,
 				C3558C83261D324A00B853E0 /* Main.storyboard */,
-				C3558C86261D325000B853E0 /* Assets.xcassets */,
-				C3558C88261D325000B853E0 /* LaunchScreen.storyboard */,
 				C3558C8B261D325000B853E0 /* Info.plist */,
 			);
 			path = mobile2you;
@@ -126,6 +123,17 @@
 				C3558CA1261D325000B853E0 /* Info.plist */,
 			);
 			path = mobile2youUITests;
+			sourceTree = "<group>";
+		};
+		C3558CB0261D330B00B853E0 /* Initializer */ = {
+			isa = PBXGroup;
+			children = (
+				C3558C7D261D324A00B853E0 /* AppDelegate.swift */,
+				C3558C7F261D324A00B853E0 /* SceneDelegate.swift */,
+				C3558C86261D325000B853E0 /* Assets.xcassets */,
+				C3558C88261D325000B853E0 /* LaunchScreen.storyboard */,
+			);
+			path = Initializer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
